@@ -1,0 +1,1 @@
+SELECT name, phone_number from employee;
